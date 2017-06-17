@@ -1,0 +1,12 @@
+E:\Projects\DietaParserTest\DietaParserTest\obj\Debug\DietaParserTest.csprojResolveAssemblyReference.cache
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\DietaParserTest.exe.config
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\DietaParserTest.exe
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\DietaParserTest.pdb
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\itextsharp.dll
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\itextsharp.xml
+E:\Projects\DietaParserTest\DietaParserTest\obj\Debug\DietaParserTest.exe
+E:\Projects\DietaParserTest\DietaParserTest\obj\Debug\DietaParserTest.pdb
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\EntityFramework.dll
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\EntityFramework.xml
+E:\Projects\DietaParserTest\DietaParserTest\bin\Debug\EntityFramework.SqlServer.xml
